@@ -1,0 +1,2 @@
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.9 - IEquatable(int) Demo\IEquatableInt\IEquatableInt\obj\Debug\IEquatableInt.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.9 - IEquatable(int) Demo\IEquatableInt\IEquatableInt\obj\Debug\IEquatableInt.csproj.CoreCompileInputs.cache

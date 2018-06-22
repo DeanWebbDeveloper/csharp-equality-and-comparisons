@@ -1,0 +1,6 @@
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.5 - Equality, Value Types and Boxing\EqualInts\EqualInts\bin\Debug\EqualInts.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.5 - Equality, Value Types and Boxing\EqualInts\EqualInts\bin\Debug\EqualInts.exe
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.5 - Equality, Value Types and Boxing\EqualInts\EqualInts\bin\Debug\EqualInts.pdb
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.5 - Equality, Value Types and Boxing\EqualInts\EqualInts\obj\Debug\EqualInts.csproj.CoreCompileInputs.cache
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.5 - Equality, Value Types and Boxing\EqualInts\EqualInts\obj\Debug\EqualInts.exe
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.5 - Equality, Value Types and Boxing\EqualInts\EqualInts\obj\Debug\EqualInts.pdb

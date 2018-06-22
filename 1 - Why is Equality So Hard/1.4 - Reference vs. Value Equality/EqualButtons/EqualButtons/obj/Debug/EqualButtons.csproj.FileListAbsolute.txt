@@ -1,0 +1,2 @@
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.4 - Reference vs. Value Equality\EqualButtons\EqualButtons\obj\Debug\EqualButtons.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.4 - Reference vs. Value Equality\EqualButtons\EqualButtons\obj\Debug\EqualButtons.csproj.CoreCompileInputs.cache

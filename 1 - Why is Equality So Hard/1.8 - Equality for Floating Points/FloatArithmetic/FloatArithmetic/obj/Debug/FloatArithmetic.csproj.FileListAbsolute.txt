@@ -1,0 +1,7 @@
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.8 - Equality for Floating Points\FloatArithmetic\FloatArithmetic\bin\Debug\FloatArithmetic.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.8 - Equality for Floating Points\FloatArithmetic\FloatArithmetic\bin\Debug\FloatArithmetic.exe
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.8 - Equality for Floating Points\FloatArithmetic\FloatArithmetic\bin\Debug\FloatArithmetic.pdb
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.8 - Equality for Floating Points\FloatArithmetic\FloatArithmetic\obj\Debug\FloatArithmetic.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.8 - Equality for Floating Points\FloatArithmetic\FloatArithmetic\obj\Debug\FloatArithmetic.csproj.CoreCompileInputs.cache
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.8 - Equality for Floating Points\FloatArithmetic\FloatArithmetic\obj\Debug\FloatArithmetic.exe
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\1 - Why is Equality So Hard\1.8 - Equality for Floating Points\FloatArithmetic\FloatArithmetic\obj\Debug\FloatArithmetic.pdb

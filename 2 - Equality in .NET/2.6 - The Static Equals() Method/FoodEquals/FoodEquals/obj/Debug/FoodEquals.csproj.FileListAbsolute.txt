@@ -1,0 +1,7 @@
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.6 - The Static Equals() Method\FoodEquals\FoodEquals\bin\Debug\FoodEquals.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.6 - The Static Equals() Method\FoodEquals\FoodEquals\bin\Debug\FoodEquals.exe
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.6 - The Static Equals() Method\FoodEquals\FoodEquals\bin\Debug\FoodEquals.pdb
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.6 - The Static Equals() Method\FoodEquals\FoodEquals\obj\Debug\FoodEquals.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.6 - The Static Equals() Method\FoodEquals\FoodEquals\obj\Debug\FoodEquals.csproj.CoreCompileInputs.cache
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.6 - The Static Equals() Method\FoodEquals\FoodEquals\obj\Debug\FoodEquals.exe
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.6 - The Static Equals() Method\FoodEquals\FoodEquals\obj\Debug\FoodEquals.pdb

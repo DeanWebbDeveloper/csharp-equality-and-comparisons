@@ -1,0 +1,7 @@
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.7 - The ReferenceEquals() Method\StringEquals\StringEquals\bin\Debug\StringEquals.exe.config
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.7 - The ReferenceEquals() Method\StringEquals\StringEquals\bin\Debug\StringEquals.exe
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.7 - The ReferenceEquals() Method\StringEquals\StringEquals\bin\Debug\StringEquals.pdb
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.7 - The ReferenceEquals() Method\StringEquals\StringEquals\obj\Debug\StringEquals.csprojResolveAssemblyReference.cache
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.7 - The ReferenceEquals() Method\StringEquals\StringEquals\obj\Debug\StringEquals.csproj.CoreCompileInputs.cache
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.7 - The ReferenceEquals() Method\StringEquals\StringEquals\obj\Debug\StringEquals.exe
+W:\Web Development\Courses\Pluralsight\csharp-equality-and-comparisons\2 - Equality in .NET\2.7 - The ReferenceEquals() Method\StringEquals\StringEquals\obj\Debug\StringEquals.pdb
