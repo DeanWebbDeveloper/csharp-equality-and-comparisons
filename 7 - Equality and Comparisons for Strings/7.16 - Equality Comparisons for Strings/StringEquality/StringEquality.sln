@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEquality", "StringEquality\StringEquality.csproj", "{3D0AC5D2-3840-4435-876A-E9644E3327C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D0AC5D2-3840-4435-876A-E9644E3327C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0AC5D2-3840-4435-876A-E9644E3327C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0AC5D2-3840-4435-876A-E9644E3327C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0AC5D2-3840-4435-876A-E9644E3327C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA3755C-DF17-4157-8A23-1E5EE1EF3F9A}
+	EndGlobalSection
+EndGlobal
